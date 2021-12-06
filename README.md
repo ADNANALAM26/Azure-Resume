@@ -2,8 +2,21 @@
 This is my own resume 
 
 
+## Technologies Used:
+- CSS
+- JAVASCRIPT
+- HTML
+- C#
 
 
- ## Includes
-- Frontend folder contains the Website.
-- main.js conatins the visitor counter code
+### Azure Services Used :
+- Azure Cosmos DB
+- Azure Data Explorer
+- Function App
+- Azure Blog Storage
+- Storage accounts
+- Functions
+
+
+
+#### Website link - https://azureresumeadnan.azureedge.net
